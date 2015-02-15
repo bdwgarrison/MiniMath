@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/txt">
+        <file>newtondata.txt</file>
+        <file>natcubdata.txt</file>
+        <file>my_data.txt</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1369377315 source:/home/user/C++ Projects/PIC10C Projects/numans10/algorithms.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<sstream>
+	"functions.h"
+	"algorithms.h"
+
+1369413618 /home/user/C++ Projects/PIC10C Projects/numans10/functions.h
+	<iostream>
+	<string>
+	<fstream>
+
+1369413233 /home/user/C++ Projects/PIC10C Projects/numans10/algorithms.h
+
+1369413618 source:/home/user/C++ Projects/PIC10C Projects/numans10/functions.cpp
+	"functions.h"
+	"algorithms.h"
+	<cmath>
+	<stdexcept>
+	<fstream>
+	<sstream>
+
+1369378002 source:/home/user/C++ Projects/PIC10C Projects/numans10/main.cpp
+	<iostream>
+	"menus.h"
+	"functions.h"
+	"algorithms.h"
+
+1369348500 /home/user/C++ Projects/PIC10C Projects/numans10/menus.h
+	<iostream>
+	"functions.h"
+
+1369348500 source:/home/user/C++ Projects/PIC10C Projects/numans10/menus.cpp
+	"menus.h"
+	"functions.h"
+	"algorithms.h"
+	<sstream>
+
